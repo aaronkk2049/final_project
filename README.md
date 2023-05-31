@@ -4,13 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is Shorter! Simple app, yet powerful in daily life. It reads image texts and shorten it for you. 
+If you want to download, 
 
-A few resources to get you started if this is your first Flutter project:
+Android:
+1. Connect the phone to your computer and migrate the project into your local 
+2. Use command 'cd final_project_v1'
+3. Run 'flutter install'
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+IOS:
+0. Cocoapods and release authorities are all resolved ahead, no need to worry regarding permissions
+1. Connect your phone to the computer and migrate the project into your local 
+2. Run 'flutter run --release'
